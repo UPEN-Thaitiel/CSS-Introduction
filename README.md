@@ -3,7 +3,7 @@ This repo will be used for web development lab #3, which validates basic CSS kno
 
 ## Repo structure:
 
-This repo consist of 4 directories, in each directory you wil find 2 files per the following structure:<br />
+This repo consist of 4 directories, in each directory you wil find files per the following structure:<br />
 ```
 ├── Cascade
 │   ├── goal.png
